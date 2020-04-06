@@ -14,7 +14,7 @@ helm repo update
 ### Helm Charts
 
 * **Database Adminer** 
-  > [chart information](https://demon-dk.github.io/helm-charts/adminer/README.md)
+  > [chart information](https://github.com/Demon-DK/helm-charts/blob/gh-pages/adminer/README.md)
 
   ```bash
   helm install --generate-name demon/adminer 
